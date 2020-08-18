@@ -9,8 +9,7 @@ URL parameters for the website:
 - role : set this to Director on the director OBS
 - id : custom ID for filtering purposes
 
-Examples:
-OBS web-source: example.com/obstally?role=Director&id=myid
-
-Tally display: example.com/obstally?scene=Camera1&id=myid
+Example:
+- OBS web-source: example.com/obstally?role=Director&id=myid
+- Tally display: example.com/obstally?scene=Camera1&id=myid
 
