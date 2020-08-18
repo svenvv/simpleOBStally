@@ -11,5 +11,6 @@ id : custom ID for filtering purposes
 
 Examples:
 OBS web-source: example.com/obstally?role=Director&id=myid
+
 Tally display: example.com/obstally?scene=Camera1&id=myid
 
