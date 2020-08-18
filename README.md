@@ -5,9 +5,9 @@ Backend is a simple nodejs websocket server. See: https://github.com/websockets/
 It does no authentication or filtering of any sorts as of yet. 
 
 URL parameters for the website:
-scene : the scene name on which the tally light triggers
-role : set this to Director on the director OBS
-id : custom ID for filtering purposes
+- scene : the scene name on which the tally light triggers
+- role : set this to Director on the director OBS
+- id : custom ID for filtering purposes
 
 Examples:
 OBS web-source: example.com/obstally?role=Director&id=myid
